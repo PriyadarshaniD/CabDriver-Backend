@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CabDriver.iml" filepath="$PROJECT_DIR$/.idea/CabDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CabDriver/CabDriver.iml" filepath="$PROJECT_DIR$/CabDriver/CabDriver.iml" />
     </modules>
   </component>
 </project>
